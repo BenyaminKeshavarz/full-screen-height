@@ -1,0 +1,21 @@
+/* Fix 100vh problem on mobile screens */
+
+:root {
+  --doc-height: 100vh;
+}
+
+/* Max Height */
+.max-h-full-screen {
+  max-height: var(--doc-height);
+}
+
+/* Min Height */
+.min-h-full-screen {
+  min-height: var(--doc-height);
+}
+
+/* Height */
+.h-full-screen {
+  height: var(--doc-height);
+}
+/* ............. */
