@@ -1,5 +1,5 @@
-const fullScreenHeight = () => {
-    // Fix 100vh problem on mobile screens
+function fullScreenHeight() {
+    // Fixed 100vh problem for mobile responsive
     const documentHeight = () => {
         const doc = document.documentElement;
         doc.style.setProperty("--doc-height", `${document.defaultView.innerHeight}px`);

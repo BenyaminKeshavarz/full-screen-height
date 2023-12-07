@@ -1,0 +1,19 @@
+{
+  "name": "full-screen-height",
+  "version": "1.0.0",
+  "description": "A javascript plugin for fix 100vh problem on mobile screens",
+  "main": "dist/fullScreenHeight.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenyaminKeshavarz/full-screen-height.git"
+  },
+  "author": "Benyamin Keshavarz <beny.keshavarz2018@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenyaminKeshavarz/full-screen-height/issues"
+  },
+  "homepage": "https://github.com/BenyaminKeshavarz/full-screen-height#readme"
+}
