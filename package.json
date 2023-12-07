@@ -1,6 +1,6 @@
 {
   "name": "full-screen-height",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A javascript plugin for fix 100vh problem on mobile screens",
   "main": "dist/fullScreenHeight.js",
   "scripts": {
