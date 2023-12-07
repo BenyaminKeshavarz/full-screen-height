@@ -10,7 +10,7 @@ A small javascript plugin for fix 100vh problem on mobile screens
 Install `full-screen-height` package:
 * `npm install full-screen-height`
 
-Import script, styles and initialize AOS:
+Import script, styles and initialize:
 ```js
 import fullScreenHeight from 'full-screen-height/dist/fullScreenHeight';
 import 'full-screen-height/dist/fullScreenHeight.css';
